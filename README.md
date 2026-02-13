@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+Soy estudiante del **Grado en Ingeniería Informática** de la **Universidad de La Laguna (ULL)**.
 <!--
 **LucasDVG/LucasDVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
